@@ -3,7 +3,7 @@
 catpuccin:
   # Default colours
   default:
-    background: '#1E1D2F'
+    background: '#1E1D2E'
     foreground: '#D9E0EE'
 
   # Cursor colour 
@@ -18,7 +18,7 @@ catpuccin:
     blue:    '#96CDFB'
     magenta: '#F5C2E7'
     cyan:    '#89DCEB'
-    white:   '#D9E0EE'
+    white:   '#C3BAC6'
 
   # Bright colors
   bright:
