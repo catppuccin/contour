@@ -1,6 +1,6 @@
 # Catpuccin theme for Contour!
 # Author: TarunDaCoder (https://github.com/TarunDaCoder)
-catpuccin:
+catppuccin:
   # Default colours
   default:
     background: '#1E1D2E'
