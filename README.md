@@ -17,7 +17,7 @@
 
 ## Usage
 
-1. Copy the contents of `catppuccin.yml` into your Contour config file (usually stored at `~/.config/contour/contour.yml` for POSIX, `C:\Users\<YourUsername>\AppData\Local\contour` on Windows)
+1. Copy the contents of `catppuccin.yml` into your Contour config file (usually stored at `~/.config/contour/contour.yml` for POSIX, `C:\Users\<YourUsername>\AppData\Local\contour\contour.yml` on Windows)
 2. Add `colors: "catppuccin"` in your `contour.yml`
 
 ## 💝 Thanks to
