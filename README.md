@@ -12,14 +12,16 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/sample.png"/>
+  <img src="assets/ContourMac_Screenshot.png"/ alt="Contour On Mac from @VictorTennekes">
 </p>
 
 ## Usage
 
-1. Copy the contents of `catppuccin.yml` into your Contour config file (usually stored at `~/.config/contour/contour.yml` for POSIX, `C:\Users\<YourUsername>\AppData\Local\contour\contour.yml` on Windows)
+1. Copy the contents of `catppuccin.yml` into your Contour config file (usually stored at `~/.config/contour/contour.yml`)
 2. Add `colors: "catppuccin"` in your `contour.yml`
 
 ## 💝 Thanks to
 
 - [TarunDaCoder](https://github.com/TarunDaCoder)
+- [LudoPinelli](https://github.com/LudoPinelli)
+- [VictorTennekes](https://github/VictorTennekes)
