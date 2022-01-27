@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ContourMac_Screenshot.png"/ alt="Contour On Mac from @VictorTennekes">
+  <img src="assets/ContourMac_Screenshot.png" alt="Contour On Mac from @VictorTennekes"/>
 </p>
 
 ## Usage
