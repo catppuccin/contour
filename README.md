@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/TarunDaCoder/contour/stargazers"><img src="https://img.shields.io/github/stars/TarunDaCoder/contour?colorA=363a4f&colorB=b7bdf8&style=for-the-badge style=for-the-badgestyle=for-the-badge"></a>
+    <a href="https://github.com/TarunDaCoder/contour/stargazers"><img src="https://img.shields.io/github/stars/TarunDaCoder/contour?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
     <a href="https://github.com/TarunDaCoder/contour/issues"><img src="https://img.shields.io/github/issues/TarunDaCoder/contour?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
     <a href="https://github.com/TarunDaCoder/contour/contributors"><img src="https://img.shields.io/github/contributors/TarunDaCoder/contour?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
