@@ -18,13 +18,13 @@
 ## Usage
 
 1. Copy the contents of `catppuccin.yml` into your Contour config file (usually stored at `~/.config/contour/contour.yml`)
-2. Add `colors: "catppuccin"` in your `contour.yml`
+2. Add `colors: "catppuccin_mocha"` (or `macchiato`, `frappe`, `latte`) in your `contour.yml`
 
 ## 💝 Thanks to
 
 - [TarunDaCoder](https://github.com/TarunDaCoder)
 - [LudoPinelli](https://github.com/LudoPinelli)
-- [VictorTennekes](https://github/VictorTennekes) For the Screenshot
+- [VictorTennekes](https://github/VictorTennekes) for the Screenshot
 
 &nbsp;
 
