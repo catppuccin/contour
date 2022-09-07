@@ -1,33 +1,125 @@
 # Catpuccin theme for Contour!
-# Author: TarunDaCoder (https://github.com/TarunDaCoder)
-catppuccin:
-  # Default colours
-  default:
-    background: '#1E1D2E'
-    foreground: '#D9E0EE'
+# Author: Catppuccin Org (https://github.com/catppuccin)
+catppuccin_latte:
+    # Default colours
+    default:
+        background: "#EFF1F5" # base
+        foreground: "#4C4F69" # text
 
-  # Cursor colour 
-  cursor: "#F5E0DC"
+    # Cursor colour
+    cursor: "#DC8A78" # rosewater
 
-  # Normal colors
-  normal:
-    black:   '#6E6C7E'
-    red:     '#F28FAD'
-    green:   '#ABE9B3'
-    yellow:  '#FAE3B0'
-    blue:    '#96CDFB'
-    magenta: '#F5C2E7'
-    cyan:    '#89DCEB'
-    white:   '#C3BAC6'
+    # Normal colors
+    normal:
+        black: "#5C5F77" # subtext1
+        red: "#D20F39" # red
+        green: "#40A02B" # green
+        yellow: "#DF8E1D" # yellow
+        blue: "#1E66F5" # blue
+        magenta: "#EA76CB" # pink
+        cyan: "#179299" # teal
+        white: "#ACB0BE" # surface2
 
-  # Bright colors
-  bright:
-    black:   '#988BA2'
-    red:     '#F28FAD'
-    green:   '#ABE9B3'
-    yellow:  '#FAE3B0'
-    blue:    '#96CDFB'
-    magenta: '#F5C2E7'
-    cyan:    '#89DCEB'
-    white:   '#D9E0EE'
+    # Bright colors
+    bright:
+        black: "#6C6F85" # subtext0
+        red: "#D20F39" # red
+        green: "#40A02B" # green
+        yellow: "#DF8E1D" # yellow
+        blue: "#1E66F5" # blue
+        magenta: "#EA76CB" # pink
+        cyan: "#179299" # teal
+        white: "#BCC0CC" # surface1
 
+catppuccin_frappe:
+    # Default colours
+    default:
+        background: "#303446" # base
+        foreground: "#C6D0F5" # text
+
+    # Cursor colour
+    cursor: "#F4DBD6" # rosewater
+
+    # Normal colors
+    normal:
+        black: "#51576D" # surface1
+        red: "#E78284" # red
+        green: "#A6D189" # green
+        yellow: "#E5C890" # yellow
+        blue: "#8CAAEE" # blue
+        magenta: "#F4B8E4" # pink
+        cyan: "#81C8BE" # teal
+        white: "#B5BFE2" # subtext1
+
+        # Bright colors
+    bright:
+        black: "#626880" # surface2
+        red: "#E78284" # red
+        green: "#A6D189" # green
+        yellow: "#E5C890" # yellow
+        blue: "#8CAAEE" # blue
+        magenta: "#F4B8E4" # pink
+        cyan: "#81C8BE" # teal
+        white: "#A5ADCE" # subtext0
+
+catppuccin_macchiato:
+    # Default colours
+    default:
+        background: "#24273A" # base
+        foreground: "#CAD3F5" # text
+
+    # Cursor colour
+    cursor: "#F4DBD6" # rosewater
+
+    # Normal colors
+    normal:
+        black: "#494D64" # surface1
+        red: "#ED8796" # red
+        green: "#A6DA95" # green
+        yellow: "#EED49F" # yellow
+        blue: "#8AADF4" # blue
+        magenta: "#F5BDE6" # pink
+        cyan: "#8BD5CA" # teal
+        white: "#B8C0E0" # subtext1
+
+    # Bright colors
+    bright:
+        black: "#5B6078" # surface2
+        red: "#ED8796" # red
+        green: "#A6DA95" # green
+        yellow: "#EED49F" # yellow
+        blue: "#8AADF4" # blue
+        magenta: "#F5BDE6" # pink
+        cyan: "#8BD5CA" # teal
+        white: "#A5ADCB" # subtext0
+
+catppuccin_mocha:
+    # Default colours
+    default:
+        background: "#1E1D2E"
+        foreground: "#D9E0EE"
+
+    # Cursor colour
+    cursor: "#F5E0DC"
+
+    # Normal colors
+    normal:
+        black: "#6E6C7E"
+        red: "#F28FAD"
+        green: "#ABE9B3"
+        yellow: "#FAE3B0"
+        blue: "#96CDFB"
+        magenta: "#F5C2E7"
+        cyan: "#89DCEB"
+        white: "#C3BAC6"
+
+    # Bright colors
+    bright:
+        black: "#988BA2"
+        red: "#F28FAD"
+        green: "#ABE9B3"
+        yellow: "#FAE3B0"
+        blue: "#96CDFB"
+        magenta: "#F5C2E7"
+        cyan: "#89DCEB"
+        white: "#D9E0EE"
