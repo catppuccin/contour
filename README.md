@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ss.png"/>
+  <img src="assets/composite.webp"/>
 </p>
 
 ## Usage
