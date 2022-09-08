@@ -8,7 +8,9 @@ color_schemes:
             foreground: "#4C4F69" # text
 
         # Cursor colour
-        cursor: "#DC8A78" # rosewater
+        cursor:
+            default: "#DC8A78" # rosewater
+            text: "#EFF1F5" # base
 
         # Normal colors
         normal:
@@ -39,7 +41,9 @@ color_schemes:
             foreground: "#C6D0F5" # text
 
         # Cursor colour
-        cursor: "#F4DBD6" # rosewater
+        cursor:
+            default: "#F4DBD6" # rosewater
+            text: "#303446" # base
 
         # Normal colors
         normal:
@@ -70,7 +74,9 @@ color_schemes:
             foreground: "#CAD3F5" # text
 
         # Cursor colour
-        cursor: "#F4DBD6" # rosewater
+        cursor:
+            default: "#F4DBD6" # rosewater
+            text: "#24273A" # base
 
         # Normal colors
         normal:
@@ -101,7 +107,9 @@ color_schemes:
             foreground: "#D9E0EE"
 
         # Cursor colour
-        cursor: "#F5E0DC"
+        cursor: 
+            default: "#F5E0DC"
+            text: "#1E1D2E"
 
         # Normal colors
         normal:
