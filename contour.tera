@@ -1,0 +1,59 @@
+---
+whiskers:
+  version: 2.0.0
+  capitalize_hex: true
+---
+# Catpuccin theme for Contour!
+# Author: Catppuccin Org (https://github.com/catppuccin)
+color_schemes:
+    {% for id, flavor in flavors %}
+    {%- set palette = flavor.colors -%}
+    catppuccin_{{id}}:
+        # Default colours
+        default:
+            background: "#{{ palette.base.hex }}" # base
+            foreground: "#{{ palette.text.hex }}" # text
+
+        # Cursor colour
+        cursor:
+            default: "#{{ palette.rosewater.hex }}" # rosewater
+            text: "#{{ palette.base.hex}}" # base
+
+        # Normal colors
+        normal:
+            {%- if flavor.light %}
+            black: "#{{ palette.subtext1.hex }}" # subtext1
+            {%- else %}
+            black: "#{{ palette.surface1.hex }}" # surface1
+            {%- endif %}
+            red: "#{{ palette.red.hex }}" # red
+            green: "#{{ palette.green.hex }}" # green
+            yellow: "#{{ palette.yellow.hex }}" # yellow
+            blue: "#{{ palette.blue.hex }}" # blue
+            magenta: "#{{ palette.pink.hex }}" # pink
+            cyan: "#{{ palette.teal.hex }}" # teal
+            {%- if flavor.light %}
+            white: "#{{ palette.surface2.hex }}" # surface2
+            {%- else %}
+            white: "#{{ palette.subtext1.hex }}" # subtext1
+            {%- endif %}
+
+        # Bright colors
+        bright:
+            {%- if flavor.light %}
+            black: "#{{ palette.subtext0.hex }}" # subtext0
+            {%- else %}
+            black: "#{{ palette.surface2.hex }}" # surface2
+            {%- endif %}
+            red: "#{{ palette.red.hex }}" # red
+            green: "#{{ palette.green.hex }}" # green
+            yellow: "#{{ palette.yellow.hex }}" # yellow
+            blue: "#{{ palette.blue.hex }}" # blue
+            magenta: "#{{ palette.pink.hex }}" # pink
+            cyan: "#{{ palette.teal.hex }}" # teal
+            {%- if flavor.light %}
+            white: "#{{ palette.surface1.hex }}" # surface1
+            {%- else %}
+            white: "#{{ palette.subtext0.hex }}" # subtext0
+            {%- endif %}
+    {% endfor %}
