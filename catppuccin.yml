@@ -46,25 +46,25 @@ color_schemes:
 
         # Normal colors
         normal:
-            black: "#B5BFE2" # subtext1
+            black: "#51576D" # surface1
             red: "#E78284" # red
             green: "#A6D189" # green
             yellow: "#E5C890" # yellow
             blue: "#8CAAEE" # blue
             magenta: "#F4B8E4" # pink
             cyan: "#81C8BE" # teal
-            white: "#626880" # surface2
+            white: "#B5BFE2" # subtext1
 
         # Bright colors
         bright:
-            black: "#A5ADCE" # subtext0
+            black: "#626880" # surface2
             red: "#E78284" # red
             green: "#A6D189" # green
             yellow: "#E5C890" # yellow
             blue: "#8CAAEE" # blue
             magenta: "#F4B8E4" # pink
             cyan: "#81C8BE" # teal
-            white: "#51576D" # surface1
+            white: "#A5ADCE" # subtext0
     catppuccin_macchiato:
         # Default colours
         default:
@@ -78,25 +78,25 @@ color_schemes:
 
         # Normal colors
         normal:
-            black: "#B8C0E0" # subtext1
+            black: "#494D64" # surface1
             red: "#ED8796" # red
             green: "#A6DA95" # green
             yellow: "#EED49F" # yellow
             blue: "#8AADF4" # blue
             magenta: "#F5BDE6" # pink
             cyan: "#8BD5CA" # teal
-            white: "#5B6078" # surface2
+            white: "#B8C0E0" # subtext1
 
         # Bright colors
         bright:
-            black: "#A5ADCB" # subtext0
+            black: "#5B6078" # surface2
             red: "#ED8796" # red
             green: "#A6DA95" # green
             yellow: "#EED49F" # yellow
             blue: "#8AADF4" # blue
             magenta: "#F5BDE6" # pink
             cyan: "#8BD5CA" # teal
-            white: "#494D64" # surface1
+            white: "#A5ADCB" # subtext0
     catppuccin_mocha:
         # Default colours
         default:
@@ -110,23 +110,23 @@ color_schemes:
 
         # Normal colors
         normal:
-            black: "#BAC2DE" # subtext1
+            black: "#45475A" # surface1
             red: "#F38BA8" # red
             green: "#A6E3A1" # green
             yellow: "#F9E2AF" # yellow
             blue: "#89B4FA" # blue
             magenta: "#F5C2E7" # pink
             cyan: "#94E2D5" # teal
-            white: "#585B70" # surface2
+            white: "#BAC2DE" # subtext1
 
         # Bright colors
         bright:
-            black: "#A6ADC8" # subtext0
+            black: "#585B70" # surface2
             red: "#F38BA8" # red
             green: "#A6E3A1" # green
             yellow: "#F9E2AF" # yellow
             blue: "#89B4FA" # blue
             magenta: "#F5C2E7" # pink
             cyan: "#94E2D5" # teal
-            white: "#45475A" # surface1
+            white: "#A6ADC8" # subtext0
     
